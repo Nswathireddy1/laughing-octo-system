@@ -1,0 +1,7 @@
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\bin\Debug\AdoNetConsoleApplication.exe.config
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\bin\Debug\AdoNetConsoleApplication.exe
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\bin\Debug\AdoNetConsoleApplication.pdb
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\Debug\AdoNetConsoleApplication.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\Debug\AdoNetConsoleApplication.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\Debug\AdoNetConsoleApplication.exe
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\Debug\AdoNetConsoleApplication.pdb
