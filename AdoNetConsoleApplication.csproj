@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AdoNetConsoleApplication.Adonet6</StartupObject>
+    <StartupObject>AdoNetConsoleApplication.SelfJoin</StartupObject>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>
@@ -66,15 +66,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class2.cs" />
+    <Compile Include="Classinsert.cs" />
     <Compile Include="Connection.cs" />
     <Compile Include="Connection2.cs" />
+    <Compile Include="CrossJoin.cs" />
     <Compile Include="Curd1.cs" />
     <Compile Include="DataReader1.cs" />
     <Compile Include="Delete.cs" />
+    <Compile Include="FullOuter.cs" />
+    <Compile Include="InnerJoin.cs" />
+    <Compile Include="LeftOuter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Insert.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="retrive.cs" />
+    <Compile Include="RightOuter.cs" />
+    <Compile Include="SelfInterset.cs" />
+    <Compile Include="SelfJoin.cs" />
+    <Compile Include="Student3.cs" />
+    <Compile Include="studentinsert.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

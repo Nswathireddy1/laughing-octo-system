@@ -4,3 +4,4 @@ F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\bin
 F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\x64\Debug\AdoNetConsoleApplication.csproj.CoreCompileInputs.cache
 F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\x64\Debug\AdoNetConsoleApplication.exe
 F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\x64\Debug\AdoNetConsoleApplication.pdb
+F:\BIZRUNTIME\Practice\ADO\AdoNetConsoleApplication\AdoNetConsoleApplication\obj\x64\Debug\AdoNetConsoleApplication.csprojAssemblyReference.cache
